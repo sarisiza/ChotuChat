@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+/docs/.obsidian/workspace.json
+/docs/.obsidian/cache
+/docs/.obsidian/core-plugins.json
+/docs/.obsidian/appearance.json
